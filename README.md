@@ -1,11 +1,12 @@
 # ln&p co.
 
-## crowl
+![](https://github.com/cfdrake/lnp/raw/master/assets/logo.jpg)
 
-noizer
+## products
 
-## twocan
+* `crowl`: noise synth
+* `twocan`: linear tone player, requires midi keyboard
 
-linear tone generator
+## credits
 
-requires: midi keyboard
+logo by [@rbxbx](https://github.com/rbxbx)

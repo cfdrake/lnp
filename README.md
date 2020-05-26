@@ -2,10 +2,9 @@
 
 ![](https://github.com/cfdrake/lnp/raw/master/assets/logo.jpg)
 
-## products
-
-* `crowl`: noise synth
-* `twocan`: linear tone player, requires midi keyboard
+* `crowl`: crunchy noise generator
+* `twocan`: slow tones, linearly scaled (requires midi keyboard)
+* `freejazz`: percussion, freeform
 
 ## credits
 

@@ -4,7 +4,9 @@
 
 * `crowl`: crunchy noise generator
 * `twocan`: slow tones, linearly scaled (requires midi keyboard)
-* `freejazz`: percussion, freeform
+* `freejazz`: freeform drum solos
+
+Please see each script's file header for more details.
 
 ## credits
 
